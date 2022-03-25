@@ -1,0 +1,226 @@
+header{
+    display: flex;
+ justify-content: space-between;
+    
+}
+.upbutton{
+    margin-top: 2%;
+    margin-right: 3%;
+    justify-content: space-evenly;
+}
+.lang1,.sign{
+width: 7rem;
+height: 2rem;
+font-size: larger;
+}
+.lang1{
+background-color: black;
+color: aliceblue;
+}
+.sign{
+    background-color: red;
+    color: white;
+    border-color: red;
+    margin-left: 2rem;
+    
+}
+.logo{
+    width: 15rem;
+    height: 8rem;
+    margin-top: 0.1rem;
+    margin-left: 2rem;
+}
+main{
+    text-align: center;
+    margin-bottom: 10rem;
+   font-size:xx-large;
+}
+.mail{
+    width: 35rem;
+    height: 3rem;
+    font-size:20px;
+    font-weight:normal;
+}
+.mail1{
+    height: 3.4rem;
+    width: 15rem;
+    margin-right: 3%;
+    font-size:larger;
+    background-color: red;
+    color: white;
+    border-color: red;
+}
+.background{
+    background-image: url("./bzck.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-blend-mode:exclusion;
+   
+   
+}
+.h1first,.h4first,.h6first{
+    color: white;
+}
+body{
+    background-color: black;
+}
+
+.h6first{
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+}
+.h1first{
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-bottom: 0.1rem;
+    }
+    .tv1{
+        width: 30rem;
+        height: 13rem;
+        margin-top: 3rem;
+        margin-bottom:6rem;
+       
+    }
+    .second{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 5rem;
+
+    }
+    .h1second,.h4second{
+        color: white;
+    font-size:x-large;
+    margin-bottom:6rem;
+    }
+    .h1second{
+        margin-left: 0rem;
+        font-size: 75px;
+    }
+    .phn{
+        width:35rem;
+        height:20rem;
+        margin-left:4rem;
+    }
+    .h1third{
+        color: white;
+    font-size:3rem;
+    margin-left:8rem;
+    margin-top:3rem;
+ 
+    }
+    .h2third
+    {
+    color:white;
+    margin-left:8rem;
+    }
+    .third{
+        display:flex;
+        margin-bottom:6rem;
+    }
+    .h1forth{
+        color:white;
+        font-size:4rem;
+    }
+    .h3forth{
+        color:white;
+        font-size:2rem;
+    }
+    .fourth{
+        display:flex;
+        justify-content:space-between;
+    }
+    .subf{
+        margin-top:4rem;
+        margin-left:3rem;
+    }
+    
+    .h1fifth{
+        color: white;
+        font-size:3.5rem;
+    }
+    .h3fifth{
+        color:white;
+        font-size:2rem;
+    }
+    .fifth
+    {
+        display:flex;
+    }
+    .sixth {
+        background-color: #000;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+        text-align: center;
+        margin-top:5rem;
+      }
+      .h1sixth {
+        text-align: center;
+        color: white;
+        font-size:3rem;
+        margin-bottom:3rem;
+      }
+    
+    .question {
+        width:50%;
+        height:4rem;
+        background-color: #303030;
+        color: white;
+        align-items: center;
+        justify-content: space-between;
+        display: flex;
+        margin: 5px 0;
+        }
+    .textbox {
+    margin-left:2rem;       
+  font-size: 25px;
+  text-align: left;
+}
+span {
+    margin:0 30px;
+    font-size: 40px;
+    color: white;
+    font-weight: lighter;
+  }
+  
+.h3sixth{
+    color:white;
+    text-align: center;
+    margin-top:2rem;
+    font-weight: lighter;
+}
+.again{
+    margin-left: 16rem;
+    margin-bottom: 5rem;
+}
+.h5seventh{
+    color:gray;
+    font-size:1rem;
+    font-weight:lighter;
+    margin-left:17rem;
+    margin-top:4rem;
+}
+.seventh{
+    display:flex;
+    margin-left:15rem;
+}
+.f1,.s2,.t3,.p4{
+    color:gray;
+    font-size:1rem;
+    font-weight:lighter;
+    margin-top:2rem;
+    list-style: none;
+    margin-right: 5rem;;
+    
+}
+.up{
+    margin-left:18rem;
+}
+.final{
+    margin-left:1.5rem;
+    color:gray;
+}
